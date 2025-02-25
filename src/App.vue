@@ -139,6 +139,8 @@ class MyPromise {
     return this.then(null, onRejected);
   }
 }
+console.log('你好啊');
+
 </script>
 
 <style scoped>
